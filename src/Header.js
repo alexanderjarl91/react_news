@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 
 // this is the header component. it contains the headline, tag and the filter buttons
 // the articles state is always unaltered so it can be refetched as the original
