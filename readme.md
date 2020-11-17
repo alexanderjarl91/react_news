@@ -6,4 +6,4 @@ This react app fetches data in a useEffect hook and passes the data down to the 
 
 Built with webpack on Netlify.
 
-_locally this works perfect and build was succesful but the netlify link is giving errors, trying to figure out why_
+_locally this works perfect and build was successful but the netlify link is giving errors, trying to figure out why_
