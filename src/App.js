@@ -9,7 +9,7 @@ function App() {
   const [articles, setArticles] = useState([]);
   const [filteredArticles, setFilteredArticles] = useState([]);
 
-  //useEffect hook to fetch fetch data synchronously
+  //useEffect hook to fetch fetch data asynchronously
   useEffect(function () {
     async function getData() {
       const url =

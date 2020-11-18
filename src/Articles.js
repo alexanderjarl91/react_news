@@ -8,6 +8,9 @@ export default class Articles extends React.Component {
   //render html
   render() {
     const articles = this.props.articles;
+
+    if (!articles) return null;
+    
     return (
       <>
         {/* map through all articles */}
