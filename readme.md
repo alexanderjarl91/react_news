@@ -6,4 +6,5 @@ This react app fetches data in a useEffect hook and passes the data down to the 
 
 Built with webpack on Netlify.
 
-### Small problem. The API used is only available on localhost for development purposes, so the build won't show any data once it's uploaded to another server (like Netlify for example. You can just clone this repo and run it locally to see it's functionality in :axe:ion
+### Small problem. The API used is only available on localhost for development purposes, so the build won't show any data once it's uploaded to another server (like Netlify for example. You can just clone this repo and run it locally to see it's functionality in :axe:ion, but here's the dumbass link anyway:
+https://distracted-feynman-9a7986.netlify.app/
